@@ -1,4 +1,7 @@
 第一次提交
+<<<<<<<<< Temporary merge branch 1
 1、1、2017/9/25 17:11  a.txt
+=========
 
-3、分支3提交内容
+2、a.txt提交内容  2017/9/25 17:13
+>>>>>>>>> Temporary merge branch 2
